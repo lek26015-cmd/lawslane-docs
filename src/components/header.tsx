@@ -11,7 +11,7 @@ export function Header() {
           <Image src="/logo.png" alt="" width={24} height={34} className="h-8 w-auto dark:hidden" />
           <Image src="/logo-white.png" alt="" width={24} height={34} className="hidden h-8 w-auto dark:block" />
           <span className="font-semibold">
-            Lawslane <span className="font-normal text-[var(--muted)]">คู่มือ</span>
+            Lawslane<span className="text-[var(--muted)]">.doc</span>
           </span>
         </Link>
         <div className="ml-auto flex items-center gap-4">

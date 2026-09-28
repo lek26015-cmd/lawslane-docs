@@ -14,7 +14,7 @@ const prompt = Prompt({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://docs.lawslane.com'),
-  title: { default: 'คู่มือการใช้งาน Lawslane', template: '%s · คู่มือ Lawslane' },
+  title: { default: 'Lawslane.doc — คู่มือการใช้งาน Lawslane', template: '%s · Lawslane.doc' },
   description:
     'คู่มือการใช้งานระบบในเครือ Lawslane — ลูกความ ทนายความ บริการล่าม Cap & Deal และ Lawslane Wittaya',
   icons: { icon: '/logo.png' },
