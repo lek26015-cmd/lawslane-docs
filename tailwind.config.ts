@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-prompt)', 'Prompt', 'sans-serif'],
+        sans: ['var(--font-prompt)', 'Prompt', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'sans-serif'],
       },
       colors: {
         // สีหลักเดียวกับ lawslane.com (#003654 / #002f4b)

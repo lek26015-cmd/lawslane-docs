@@ -22,7 +22,9 @@ function snippet(text: string, q: string) {
   return (start > 0 ? '…' : '') + text.slice(start, i + q.length + 60) + '…';
 }
 
-export function Search({ index, variant = 'bar' }: { index: SearchEntry[]; variant?: 'bar' | 'hero' }) {
+export type SearchLabels = { search: string; hero: string; placeholder: string; dialog: string; noResults: string; close: string };
+
+export function Search({ index, labels, variant = 'bar' }: { index: SearchEntry[]; labels: SearchLabels; variant?: 'bar' | 'hero' }) {
   const [open, setOpen] = useState(false);
   const [q, setQ] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
@@ -67,7 +69,7 @@ export function Search({ index, variant = 'bar' }: { index: SearchEntry[]; varia
         }
       >
         <SearchIcon className={variant === 'hero' ? 'h-5 w-5' : 'h-4 w-4'} />
-        <span className="flex-1">{variant === 'hero' ? 'ค้นหาในคู่มือ เช่น “ขอนัดหมาย”, “ยืนยันตัวตนทนาย”' : 'ค้นหา'}</span>
+        <span className={variant === 'hero' ? 'flex-1' : 'hidden flex-1 sm:inline'}>{variant === 'hero' ? labels.hero : labels.search}</span>
         <kbd className="hidden rounded border border-[var(--line)] px-1.5 text-xs sm:inline">⌘K</kbd>
       </button>
 
@@ -78,7 +80,7 @@ export function Search({ index, variant = 'bar' }: { index: SearchEntry[]; varia
             className="w-full max-w-2xl overflow-hidden rounded-2xl border border-[var(--line)] bg-[var(--bg)] shadow-2xl"
             onClick={(e) => e.stopPropagation()}
             role="dialog"
-            aria-label="ค้นหาในคู่มือ"
+            aria-label={labels.dialog}
           >
             <div className="flex items-center gap-3 border-b border-[var(--line)] px-4">
               <SearchIcon className="h-5 w-5 text-[var(--muted)]" />
@@ -86,16 +88,16 @@ export function Search({ index, variant = 'bar' }: { index: SearchEntry[]; varia
                 ref={inputRef}
                 value={q}
                 onChange={(e) => setQ(e.target.value)}
-                placeholder="พิมพ์คำที่ต้องการค้นหา"
+                placeholder={labels.placeholder}
                 className="h-14 flex-1 bg-transparent text-base outline-none placeholder:text-[var(--muted)]"
               />
-              <button type="button" onClick={() => setOpen(false)} aria-label="ปิด" className="text-[var(--muted)]">
+              <button type="button" onClick={() => setOpen(false)} aria-label={labels.close} className="text-[var(--muted)]">
                 <X className="h-5 w-5" />
               </button>
             </div>
             <ul className="max-h-[60vh] overflow-y-auto p-2">
               {q.trim() && results.length === 0 && (
-                <li className="px-3 py-6 text-center text-sm text-[var(--muted)]">ไม่พบหัวข้อที่ตรงกับ “{q}”</li>
+                <li className="px-3 py-6 text-center text-sm text-[var(--muted)]">{labels.noResults} “{q}”</li>
               )}
               {results.map((r) => (
                 <li key={r.href}>
