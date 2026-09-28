@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --bg-soft: #f6f8fb;
+  --fg: #0f2433;
+  --muted: #5b6b78;
+  --line: #e3e8ee;
+  --accent: #003654;
+  --accent-soft: #eef6fb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b1520;
+    --bg-soft: #101d2a;
+    --fg: #e6eef5;
+    --muted: #93a4b3;
+    --line: #1f2f3e;
+    --accent: #6fb6e3;
+    --accent-soft: #13283a;
+  }
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--fg); }
+
+.doc h2, .doc h3 { scroll-margin-top: 5rem; }
+.doc blockquote {
+  font-style: normal;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 0.5rem 0.5rem 0;
+  padding: 0.75rem 1rem;
+  color: var(--fg);
+}
+.doc blockquote p:first-of-type::before, .doc blockquote p:last-of-type::after { content: none; }
+.doc table { display: block; overflow-x: auto; }
