@@ -1,5 +1,5 @@
 ---
-title: Ask LAlin AI and search the law
+title: Ask LAlin AI
 description: Get an initial assessment of your problem from AI before deciding to talk to a lawyer
 ---
 
@@ -12,10 +12,6 @@ LAlin is a floating button called **AI Legal Assistant** in the corner of the sc
 3. Read the answer, and keep asking follow-up questions
 
 > LAlin is an AI that gives general legal information. It is **not advice from a lawyer**. If you need to make a real decision, [consult a lawyer](/client/find-lawyer). Read more in the [AI disclaimer](https://lawslane.com/th/ai-disclaimer)
-
-## Law Search
-
-Go to **Law Search** (the link is in the site footer). Describe your situation in plain language, then tap **Search** (ค้นหา). You'll see the relevant legal provisions, each tagged **Highly relevant / Relevant / Related** (ตรงมาก / ตรง / เกี่ยวข้อง).
 
 ## Legal Forms
 
