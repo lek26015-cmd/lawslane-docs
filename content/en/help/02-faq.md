@@ -19,8 +19,8 @@ Sending an initial consultation message is free. If you want the lawyer to conti
 **How do I pay the lawyer?**
 Transfer directly to the lawyer's account. Lawslane does not hold your money. See [Paying for lawyer services](/client/payment).
 
-**Can the AI LAlin (ลลิน) replace a lawyer?**
-No. LAlin (ลลิน) helps you understand your situation at a basic level, but it is not legal advice.
+**Can Lawslane AI replace a lawyer?**
+No. Lawslane AI helps you understand your situation and the law at a basic level, but it is not legal advice.
 
 **How do I know a lawyer is really licensed?**
 Use the **Verify Lawyer** page. See [Find and verify lawyers](/client/find-lawyer).
