@@ -9,20 +9,25 @@ When you log in with a lawyer account, you're taken to the lawyer dashboard. The
 
 - **Overview** — your statistics and **New consultation requests** (คำขอปรึกษาใหม่)
 - **Client chat** (แชทกับลูกความ) — an inbox for all chat rooms
-- **Case management** (จัดการคดี) — open new case files and track the status of each case
+- **Case management** (จัดการคดี, Pro) — open new case files and track the status of each case
 - **Legal Vault** (คลังเอกสารคดี) — store case documents ([details](/lawyer/cases))
 - **Appointment schedule** (ตารางนัดหมาย) — set working hours, working days, and special holidays
 
 **Financial documents** (เอกสารการเงิน)
 
-- **Invoices** (ใบแจ้งหนี้) — issue invoices to clients
+- **Invoices** (ใบแจ้งหนี้, Pro) — issue invoices to clients
 - **Payout account** — set the account clients transfer to ([details](/lawyer/payments))
 - **Plan** — upgrade how your profile is displayed ([details](/lawyer/plans))
 
 **AI lawyer assistant** (AI ผู้ช่วยทนาย)
 
-- **Legal & Supreme Court research** (สืบค้นข้อกฎหมาย & ฎีกา) — find legal provisions from a description of the situation
-- **AI contract review** (ตรวจร่างสัญญาด้วย AI) — paste the contract text, tap **Analyze contract** (วิเคราะห์สัญญา), and the AI points out risky clauses with a risk level
+- **AI case assistant** (ผู้ช่วย AI งานคดี, Pro) — type a question or describe the facts. Answers carry reference numbers [1] [2] that open the statute or Supreme Court judgment from the database
+  - Pick a mode under the input: **Sections** (มาตรา) / **Judgments** (ฎีกา) / **Draft document** (ร่างเอกสาร) / **Contract review** (ตรวจสัญญา)
+  - Tap **+** to attach a PDF, image or .txt file (up to 10 MB), such as a contract to review
+  - Choose a **case folder** on the left and the AI uses that case's facts, evidence and work steps, and keeps the conversation in the folder. You can also tap **ถาม AI เรื่องคดีนี้** (Ask AI about this case) on a case page
+  - Draft mode has **Copy** and **Download Word** buttons. Answers are in Thai
+
+> Menus tagged **Pro** are available on the Pro and Firm plans only. **Closing a case** that a client hired you for through chat works on every plan.
 
 ## Accept new consultation requests
 
