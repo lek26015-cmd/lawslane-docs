@@ -6,10 +6,11 @@ description: Read your score and AI feedback, and view the answer for each quest
 ## How grading works
 
 - **Multiple-choice questions** — 100 for a correct answer, 0 for a wrong one
-- **Written questions** — AI compares your answer with the model answer and gives a score of 0–100, with strengths, areas to improve, and suggestions
+- **Written questions** — AI compares your answer with the model answer and gives a score of 0–100, with strengths, areas to improve, and suggestions. If a question has no model answer yet, AI grades it on Thai legal principles and sums up the correct approach in its feedback
+- **Unanswered questions** — 0
 - **Total score** is the average of all graded questions, out of 100. **50 or above is a pass**
 
-> AI scores are for practice only, not real exam results. Sometimes you may see "AI grading is not available right now" (ไม่สามารถตรวจด้วย AI ได้ในขณะนี้). That question gets a neutral score for now. Try submitting again later.
+> AI scores are for practice only, not real exam results. Sometimes you may see "AI grading is not available right now" (ไม่สามารถตรวจด้วย AI ได้ในขณะนี้). That question is shown as **not graded** and is left out of the total score. Your answer is still saved, and you can compare it with the answer guide on the answers page.
 
 ## Read the results page
 

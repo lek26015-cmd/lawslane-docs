@@ -33,6 +33,7 @@ On the exam page, you cannot copy, print, or save the page, to protect the exam 
 
 The number of exam sets you can take per day depends on your plan (see [Plans and features](/wittaya/plans)).
 
+- You can see how many sets you have left today on the exam library, under the **เริ่มทำข้อสอบทันที** (Start exam) button, and on the exam page
 - Opening the same exam set again on the same day counts as one
 - The quota resets at midnight, Thailand time
 - When you have used your quota, you will see a message that you have used all your attempts for today
