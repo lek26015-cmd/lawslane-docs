@@ -5,12 +5,14 @@ description: Choose books, add them to the cart, transfer payment, attach the sl
 
 ## Choose books
 
-Go to the **Books** (หนังสือ) menu. You can search by title, filter by **Type** (ประเภท) and **Level** (ระดับชั้น), or sort by price or newest. Click **View details** (ดูรายละเอียด) to see information about a book.
+Go to the **Books** (หนังสือ) menu. You can search by title or author, filter by **Type** (ประเภท) and **Level** (ระดับชั้น), or sort by price or newest. Click **View details** (ดูรายละเอียด) on a card to open that book's page. The buy buttons are on the details page.
 
 - **Add to cart** (ใส่ตะกร้า) — Keep it in the cart and keep browsing
 - **Buy now** (ซื้อเลย) — Add it to the cart and open the cart right away
 
 Click the floating cart button on the screen to change quantities or remove items, then click **Checkout →** (ชำระเงิน →).
+
+> **Exam collection** (รวมข้อสอบ) books are E-Books marked **Free for Pro members** (ฟรีสำหรับสมาชิก Pro). They have a download button instead of **Add to cart** (ใส่ตะกร้า) / **Buy now** (ซื้อเลย). Some files are still being prepared. If you see a message that the file is not ready to download yet, try again later.
 
 > The cart is saved in the browser on the device you are using. If you switch devices or browsers, the cart does not follow you.
 

@@ -12,6 +12,7 @@ When you log in with a lawyer account, you're taken to the lawyer dashboard. The
 - **Case management** (จัดการคดี, Pro) — open new case files and track the status of each case
 - **Legal Vault** (คลังเอกสารคดี) — store case documents ([details](/lawyer/cases))
 - **Appointment schedule** (ตารางนัดหมาย) — set working hours, working days, and special holidays
+- **Personal web page** (หน้าเว็บส่วนตัว, Pro) — build an introduction page at lawslane.com/p/your-name ([details](/lawyer/profile))
 
 **Financial documents** (เอกสารการเงิน)
 
@@ -26,8 +27,9 @@ When you log in with a lawyer account, you're taken to the lawyer dashboard. The
   - Tap **+** to attach a PDF, image or .txt file (up to 10 MB), such as a contract to review
   - Choose a **case folder** on the left and the AI uses that case's facts, evidence and work steps, and keeps the conversation in the folder. You can also tap **ถาม AI เรื่องคดีนี้** (Ask AI about this case) on a case page
   - Draft mode has **Copy** and **Download Word** buttons. Answers are in Thai
+  - Uses AI credits by plan: Free 0 / Pro 300 / Firm 1,000 credits per month, reset at the start of each month
 
-> Menus tagged **Pro** are available on the Pro and Firm plans only. **Closing a case** that a client hired you for through chat works on every plan.
+> Menus tagged **Pro** are available on the Pro and Firm plans only. The **Quote to open a case** (เสนอราคาเปิดคดี) button in the chat room (sending a quotation and engagement contract, and setting fee installments) also requires the Pro or Firm plan. On the Free plan you can still chat with clients and **close** or **cancel** cases as usual.
 
 ## Accept new consultation requests
 

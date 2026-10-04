@@ -20,6 +20,6 @@ The other party does not need to sign up.
 
 1. Open the link, enter the **4-digit PIN** (PIN 4 หลัก), and click **View contract** (เข้าดูสัญญา)
 2. Read the contract, download the PDF, and open attachments
-3. Click **Sign** (เซ็นชื่อ) in your own box, then follow the [signing steps](/capdeal/sign)
+3. Click **Sign (…)** (เซ็นชื่อ (…)) in your own box. The part in brackets is your role, which depends on the contract type, e.g. เซ็นชื่อ (ผู้รับจ้าง) for a contractor or เซ็นชื่อ (ผู้ซื้อ) for a buyer. Then follow the [signing steps](/capdeal/sign)
 
 If the PIN is entered wrong 5 times, the link is locked for 15 minutes.

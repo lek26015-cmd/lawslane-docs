@@ -20,4 +20,4 @@ Use the same account as lawslane.com. If you are already logged in on one site, 
 
 ## Dashboard
 
-The **Dashboard** shows your 5 most recent contracts with their status (**Draft** (ร่าง) / **Awaiting signature** (อยากเซ็น) / **Signed** (เซ็นแล้ว)). Click **View contract** (ดูสัญญา) to open one, or **Create new contract** (สร้างสัญญาใหม่) to start a new one. The sidebar has shortcuts to **Cap & Deal**, **Legal documents** (เอกสารกฎหมาย), **AI advisor** (AI ที่ปรึกษา), and **Profile** (ข้อมูลส่วนตัว).
+The **Dashboard** shows your 5 most recent contracts with their status (**Draft** (ร่าง) / **Awaiting signature** (อยากเซ็น) / **Signed** (เซ็นแล้ว)). Click **View contract** (ดูสัญญา) to open one, or **Create new contract** (สร้างสัญญาใหม่) to start a new one. If you have no contracts yet, you will see the message "No contracts created with Cap & Deal yet" (ยังไม่มีสัญญาที่สร้างจากแคปดีล) and a **Start Cap & Deal now!** (เริ่มแคปแล้วดีลเลย!) button instead. The sidebar's **Quick services** (บริการด่วน) panel has shortcuts to **Cap & Deal**, **Legal documents** (เอกสารกฎหมาย), **AI advisor** (AI ที่ปรึกษา), and **Profile** (ข้อมูลส่วนตัว).

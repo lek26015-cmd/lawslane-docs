@@ -13,7 +13,7 @@ description: Compare Free, Lite, Pro, and Scale, how to subscribe, and how to ma
 | PDF without watermark | — | ✓ | ✓ | ✓ |
 | Contract attachments | — | ✓ | ✓ | ✓ |
 
-> Prices and features may change. See the latest details on the [Pricing](https://capdeal.lawslane.com/th/pricing) page.
+> Prices and features may change. See the latest details on the [Pricing](https://capdeal.lawslane.com/th/pricing) (แพ็กเกจ) page.
 
 ## How quotas are counted
 
@@ -24,7 +24,7 @@ description: Compare Free, Lite, Pro, and Scale, how to subscribe, and how to ma
 
 ## Subscribe to a plan
 
-1. Go to the **Pricing** page and choose **Monthly** or **Yearly** (yearly works out to 2 months free)
+1. Click the **Pricing** (แพ็กเกจ) menu and choose **Monthly** (รายเดือน) or **Yearly** (รายปี). The yearly option has a **Save 20%** badge (คุ้มกว่า! ฟรี 2 เดือน, i.e. 2 months free)
 2. Click **Get Started** on the plan you want
 3. Pay through Stripe **by credit/debit card**
 4. Once payment succeeds, your plan is activated immediately
@@ -33,6 +33,10 @@ Monthly and yearly plans renew automatically.
 
 ## View usage and cancel
 
-Go to **Manage Account**. The **Subscription Plan** card shows this month's usage. Click **Billing Portal** to change your card, view receipts, or cancel renewal.
+Go to **Manage Account**. The **Subscription Plan** card shows this month's usage. Click **Billing Portal** to change your card, view receipts, or cancel renewal. On the Free plan or a plan granted by the team, you will see an **Upgrade Plan** button instead.
 
 If the Lawslane team grants you a plan, you will see the message "This plan was granted by the Lawslane team, valid until …" (แพ็กเกจนี้ได้รับจากทีมงาน Lawslane ใช้ได้ถึง …). During that time, the system uses the higher of the plan you pay for and the plan granted by the team.
+
+## Plan ring around your profile picture
+
+Your profile picture in the menu, dashboard, and account page has a colored ring and a plan badge that match your current plan: Free has no ring, Lite has a blue-violet ring, Pro has a gold ring, and Scale has a premium deep gold-orange ring with a black badge.

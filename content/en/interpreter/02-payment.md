@@ -8,10 +8,13 @@ description: Pay through the link the team sends you in chat
 ## Steps
 
 1. Once the price is agreed in chat, the team sends you a **payment link**
-2. Open the link to see the **Pay for interpreter service** (ชำระค่าบริการล่าม) page with the amount and Lawslane's account
+2. Open the link to see the **Pay for interpreter service** (ชำระค่าบริการล่าม) page. It names the interpreter the team has arranged and shows the service, languages, date, and amount due, along with Lawslane's account
 3. Transfer the amount, then enter the contact name and phone number
 4. Attach the transfer slip, then tap **Confirm payment** (ยืนยันการชำระเงิน)
-5. The system checks the slip, then the team confirms the job and your interpreter
+5. The system checks the slip and shows one of these results:
+   - **Payment received** (ชำระเงินเรียบร้อย) — the team has your payment and will confirm the schedule in chat
+   - **Slip received** (ได้รับสลิปแล้ว) — the team is checking your slip and will update you in chat
+6. Tap **Back to chat with our team** (กลับไปที่แชทกับทีมงาน) to return to the same chat room
 
 ## Good to know
 

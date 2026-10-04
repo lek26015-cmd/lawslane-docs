@@ -10,14 +10,16 @@ description: Read your score and AI feedback, and view the answer for each quest
 - **Unanswered questions** — 0
 - **Total score** is the average of all graded questions, out of 100. **50 or above is a pass**
 
-> AI scores are for practice only, not real exam results. Sometimes you may see "AI grading is not available right now" (ไม่สามารถตรวจด้วย AI ได้ในขณะนี้). That question is shown as **not graded** and is left out of the total score. Your answer is still saved, and you can compare it with the answer guide on the answers page.
+If your plan does not include AI grading of written answers, written questions are shown as **not graded** (ยังไม่ได้ตรวจ) and are left out of the total score. The feedback for those questions points you to compare your answer with the answer guide on the answers page.
+
+> AI scores are for practice only, not real exam results. Sometimes the results page may show a banner saying AI grading of written answers is temporarily unavailable. Written questions are then shown as **not graded** (ยังไม่ได้ตรวจ) and are left out of the total score. Your answers are still saved, and you can compare them with the answer guide on the answers page.
 
 ## Read the results page
 
 After you submit, the system takes you straight to the results page. It shows:
 
-- Your score out of 100, and whether you **Passed!** (ผ่าน!) or **Did not pass** (ไม่ผ่าน)
-- The total number of questions, the number answered correctly or meeting the criteria, and the average score
+- Your score out of 100, whether you **Passed!** (ผ่าน!) or **Did not pass** (ไม่ผ่าน), and the **passing score** (เกณฑ์ผ่าน)
+- The total number of questions, the number answered correctly or meeting the criteria (a written answer scoring 60 or above counts as passing), and the average score
 - **Results by question** (ผลตรวจแต่ละข้อ) — Open each question to see your answer, the correct answer, the model answer, and AI feedback
 
 From this page, click **Take exam again** (ทำข้อสอบอีกครั้ง) to practice again, or **Back to exam list** (กลับหน้ารายการข้อสอบ). Only the account owner can see the results.

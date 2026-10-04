@@ -17,11 +17,11 @@ Go to the **Legal interpreters** menu and scroll down to **Message the team to r
 
 - **Service**
 - **From** and **To** (languages)
-- **Date** (if known)
+- **Date (if known)** (วันที่ (ถ้าทราบ))
 - **Format** — on site or online
-- **Location**
-- **Phone** (optional)
-- **Details** (รายละเอียด) — for example, what the job is about, how long it will take, or whether there are documents to translate
+- **Location / province** (สถานที่ / จังหวัด)
+- **Phone (optional)** (เบอร์โทรติดต่อ (ไม่บังคับ))
+- **More details** (รายละเอียดเพิ่มเติม) — for example, what the job is about, how long it will take, or whether there are documents to translate
 
 Tap **Send request and start chatting with the team** (ส่งคำขอและเริ่มแชทกับทีมงาน). A chat room with the team opens right away. You can see past requests on the dashboard.
 

@@ -9,11 +9,15 @@ description: How the Free, Pro, and Firm plans differ, how to subscribe, and how
 | --- | --- | --- | --- |
 | Shown in lawyer search | ✓ | ✓ | ✓ |
 | Unlimited chat with clients | ✓ | ✓ | ✓ |
-| **Featured Lawyer** badge and gold profile frame | — | ✓ | ✓ |
+| **Featured Lawyer** badge and gold photo ring on your lawyer card | — | ✓ | ✓ |
 | Shown before Free-plan lawyers | — | ✓ | ✓ |
-| Large gold card at the very top of the home and search pages | — | — | ✓ |
-| Case management and invoices | — | ✓ | ✓ |
+| Gold-bordered card shown before all other lawyers on the home and search pages | — | — | ✓ |
+| Quote to open a case, case management, and invoices | — | ✓ | ✓ |
 | AI case assistant (sections/judgments, drafting, contract review) | — | ✓ | ✓ |
+| AI credits per month | 0 | 300 | 1,000 |
+| Personal web page at lawslane.com/p/… | — | ✓ | ✓ |
+
+Your profile picture in the top-right menu, on the Manage Account page, and in the dashboard gets a coloured ring and plan badge: Pro has a gold ring with a **Pro** badge, and Firm has a dark-gold-to-orange ring with a black **บริษัท** (Firm) badge. The Free plan has no ring or badge.
 
 See the latest prices on the **Plan** page in the dashboard.
 

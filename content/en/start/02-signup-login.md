@@ -22,7 +22,7 @@ description: Sign up with Google, LINE, or email, and how to reset your password
 
 If you log in with Google or LINE for the first time, an account is created for you automatically, and you are deemed to have accepted the Terms of Service and Privacy Policy.
 
-Lawyers log in on the **Lawyer** tab of the lawslane.com login page, using the email and password from sign-up.
+Lawyers log in on the **Lawyer** tab (ทนายความ) of the lawslane.com login page. The tab takes you to the lawyer login page, which accepts only the email and password from sign-up (there is no Google or LINE button).
 
 ## Forgot your password
 
