@@ -12,10 +12,10 @@ Tap the **AI Legal Assistant** button in the corner of the screen, or go to [law
 3. Tap **+** to attach a PDF, image or .txt file (up to 10 MB), such as a contract you want checked
 4. Answers carry reference numbers [1] [2] that open the actual legal text. Drafts have **Copy** and **Download Word** buttons. Answers are in Thai
 
-**Credits:** every account gets free credits each month (reset at the start of the month). Your balance is shown at the top right. Ask / Sections / Judgments cost 1 credit, Draft / Contract review cost 2, and each attached PDF or image costs 1. If the AI fails to answer, the credits are refunded automatically.
+**Credits:** every account gets free credits each month (reset at the start of the month). By default the Free plan gets 20 credits/month and Plus gets 200 credits/month (Plus is granted by the Lawslane team only; you can't sign up for or buy it yourself). Your balance is shown at the top right. Ask / Sections / Judgments cost 1 credit, Draft / Contract review cost 2, and each attached PDF or image costs 1. If the AI fails to answer, the credits are refunded automatically.
 
 > Lawslane AI gives general legal information. It is **not advice from a lawyer** and can be wrong. Before a real decision, or before sending a drafted document, [consult a lawyer](/client/find-lawyer). Read more in the [AI disclaimer](https://lawslane.com/th/ai-disclaimer)
 
 ## Legal Forms
 
-The **Legal Forms** menu is a library of downloadable forms. Without logging in you can download 3 forms. Once logged in, downloads are unlimited.
+**Legal Forms** (แบบฟอร์มกฎหมาย) is a library of downloadable forms. Open it from the **For Business** (สำหรับธุรกิจ) menu in the top bar, or from the link in the site footer. Without logging in you can download 3 forms. Once logged in, downloads are unlimited.

@@ -11,7 +11,7 @@ description: Report problems using the platform, problems with a lawyer, or paym
 
 The team is notified immediately. You can see issues you reported under **Dashboard** → **Reported Issue Tickets**. Open one to see its status, attach more files, and continue talking with the team.
 
-If the problem is in a case you are working on, click **Report an Issue** in that case's chat room, so the team can see the case context too.
+If the problem is in a case you are working on, enter its **Case Number** in the form so the team knows which case it's about.
 
 ## Request a Wittaya plan upgrade or other matters
 

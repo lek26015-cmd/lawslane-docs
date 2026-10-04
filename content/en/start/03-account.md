@@ -9,7 +9,7 @@ Go to **Manage Account** from the profile picture menu at the top right of lawsl
 - **Change Password** — enter your current password, then set a new one
 - **Notifications** — turn email notifications on or off
 
-Lawyers edit their details from the **Lawyer dashboard** (แดชบอร์ดทนาย). See [Manage your lawyer profile](/lawyer/profile)
+Lawyers edit their lawyer details on this same **Manage Account** page, in the **Lawyer Information** section (ข้อมูลทนายความ). See [Manage your lawyer profile](/lawyer/profile)
 
 ## Delete your account
 
@@ -23,5 +23,6 @@ You can't delete your account while any of the following are still open. Close t
 - Cases or chat rooms with a lawyer that are still open
 - Appointments that aren't finished
 - Interpreter jobs that aren't finished
+- Interpreter pay you haven't received yet (มียอดค่าจ้างล่ามที่ยังไม่ได้รับ, for interpreters)
 
 > Payment details, invoices, and case chat history are kept as required by law, even after your account is deleted. See the [Privacy Policy](https://lawslane.com/th/privacy)

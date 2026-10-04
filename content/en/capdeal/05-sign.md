@@ -5,7 +5,7 @@ description: Draw your signature, then verify your identity with an OTP code by 
 
 ## How to sign
 
-1. Click **Click to sign** (คลิกเพื่อเซ็นชื่อ) in your own party's box (employer or contractor)
+1. The contract owner clicks **Click to sign** (คลิกเพื่อเซ็นชื่อ) in their own party's box on the contract page. The other party, who opens the share link, clicks **Sign (…)** (เซ็นชื่อ (…)) in their own box. The part in brackets is their role for the contract type, such as employer, contractor, or buyer
 2. Draw your signature in the **Signature** (ลงลายมือชื่อ) box
 3. Enter your 10-digit mobile number, then click **Get OTP code** (รับรหัส OTP)
 4. Enter the 6-digit code from the SMS, then click **Confirm and sign contract** (ยืนยันและเซ็นสัญญา)

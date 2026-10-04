@@ -27,16 +27,12 @@ If the fee is split into installments, pay each one and wait for the lawyer to c
 
 ## Additional fees
 
-If extra costs come up during the case, the lawyer sends a **Payment request** (แจ้งชำระค่าบริการ) message in the chat with the amount and details. Transfer and report it the same way as above.
+If, when closing the case, the lawyer sets a final fee higher than originally agreed, you'll get a request to pay the difference (by email and in the chat room). The case isn't closed at this step. In the **Fees to transfer to the lawyer** (ค่าบริการที่ต้องโอนให้ทนาย) card on the side of the chat room, tap the **Transfer ฿…** (โอน ฿…) button for that item, then transfer and report it the same way as above.
 
 ## If the lawyer has no account details yet
 
 If the payment page says the lawyer hasn't entered payout account details, ask the lawyer in the chat room how to pay, and make sure the account name really belongs to that lawyer.
 
-## View payment history
-
-Go to **Dashboard** → **Payments & invoices**.
-
 ## Cancelling a case and refunds
 
-The fees are held by the lawyer directly. If you cancel a case and want a refund, agree on it with the lawyer directly. If there's a problem, tap **Report an Issue** in the chat room or contact the [Help Center](/help/contact), and the team will help coordinate.
+The fees are held by the lawyer directly. If you cancel a case and want a refund, agree on it with the lawyer directly. If there's a problem, use the **Report an Issue** (รายงานปัญหา) form in the [Help Center](/help/contact) and include the case number, and the team will help coordinate.

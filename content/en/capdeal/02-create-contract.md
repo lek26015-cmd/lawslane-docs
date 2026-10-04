@@ -5,10 +5,10 @@ description: Upload chat images, let AI draft a short contract, then create a li
 
 ## 1. Upload chat screenshots
 
-1. From the dashboard, click **📸 Cap & Deal** or **Create new contract** (สร้างสัญญาใหม่)
-2. Click **Click to upload your chat images** (คลิกเพื่ออัปโหลดรูปแชทของคุณ) and choose PNG/JPG images (up to 10 images, about 3MB each). To add more, click **Add images** (เพิ่มรูปภาพ)
+1. From the dashboard, click **📸 Cap & Deal** or **Create new contract** (สร้างสัญญาใหม่) (if you have no contracts yet, the button is **Start Cap & Deal now!** (เริ่มแคปแล้วดีลเลย!))
+2. Click **Click to upload your chat images** (คลิกเพื่ออัปโหลดรูปแชทของคุณ) and choose PNG/JPG images. To add more, click **Add images** (เพิ่มรูปภาพ). Images are shrunk automatically
 3. Tick to accept the **Terms and conditions for AI contract creation** (เงื่อนไขและข้อตกลง สำหรับการสร้างสัญญาด้วย AI)
-4. Click **Create smart contract draft** (สร้างร่างสัญญาอัจฉริยะ) and wait for AI to analyze the chat
+4. Click **Create smart contract draft** (สร้างร่างสัญญาอัจฉริยะ) and wait for AI to analyze the chat. At this point the system checks that you have no more than 10 images and that each is no larger than 3MB
 
 > Make sure your screenshots show everything you agreed on, such as the work to be done, price, deposit, and delivery date. If you are not logged in, you will be asked to log in first, and your uploaded images will be kept.
 
