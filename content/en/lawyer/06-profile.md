@@ -17,7 +17,7 @@ Go to **Manage Account** (จัดการบัญชี) from the profile pi
 
 - Full name and profile picture
 - The **Lawyer Information** section (ข้อมูลทนายความ) — phone number, office address, introduction / bio, service provinces, and specialty
-- **Bank Account Information (For payments)** — can also be set on the **Payout account** (บัญชีรับเงิน) page in the dashboard. See [Receive payments from clients](/lawyer/payments)
+- **Bank Account Information (For payments)** — the account Lawslane pays your fees into after a case is closed. It can also be set on the **Earnings and payout account** (รายได้และบัญชีรับเงิน) page in the dashboard. See [Receive payments from clients](/lawyer/payments)
 
 You can't edit **Education** or **Experience** yourself. To change them, [contact the team](/help/contact).
 

@@ -15,6 +15,7 @@ description: Message a lawyer, discuss details, share documents, and receive a q
 
 - **Details** (รายละเอียด) — case information and a summary of fees
 - **Document Vault** — upload and view files shared with the lawyer, such as contracts, evidence, or photos
+- **Lawyer fees** (ค่าบริการทนายความ) — a card in the sidebar listing the fees, with a **Pay ฿…** (ชำระ ฿…) button on each unpaid item. Lawyer fees are paid into Lawslane's account only, and Lawslane pays the lawyer after the case is closed
 
 ## Quotation and engagement contract
 
@@ -25,9 +26,9 @@ Once you reach an agreement, the lawyer sends 2 documents into the chat.
 
 1. Read the quotation and contract in full
 2. If you agree, tap **Click to sign** (คลิกเพื่อเซ็นชื่อ) and draw your signature
-3. Transfer the fee following the steps in [Pay a lawyer's fees](/client/payment)
+3. Pay the fee into Lawslane's account following the steps in [Pay a lawyer's fees](/client/payment) (never transfer to the lawyer's personal account)
 
-The contract takes full effect once the lawyer confirms receiving the first installment.
+The contract takes full effect once the first installment has been paid.
 
 ## Closing the case and rating
 

@@ -17,7 +17,7 @@ Click **Forgot your password?** on the login page. See [Sign up and log in](/sta
 Sending an initial consultation message is free. If you want the lawyer to continue the work, the lawyer will quote a price in the chat first.
 
 **How do I pay the lawyer?**
-Transfer directly to the lawyer's account. Lawslane does not hold your money. See [Paying for lawyer services](/client/payment).
+Transfer to the Lawslane account shown on the payment page and attach the slip. Lawslane pays the lawyer after the case is closed. See [Pay a lawyer's fees](/client/payment).
 
 **Can Lawslane AI replace a lawyer?**
 No. Lawslane AI helps you understand your situation and the law at a basic level, but it is not legal advice.
@@ -28,10 +28,10 @@ Use the **Verify Lawyer** page. See [Find and verify lawyers](/client/find-lawye
 ## Lawyers
 
 **Does Lawslane take a fee from my service charges?**
-No. Clients transfer directly to your account. Lawslane's revenue comes from optional membership plans.
+Yes. Lawslane deducts a platform fee (GP), currently 10%, from the lawyer's fee before paying you. Clients pay only the amount shown. Membership plans are a separate charge.
 
 **How do I withdraw money?**
-You don't need to, because the money goes into your account from the start. See [Receiving payment from clients](/lawyer/payments).
+You don't need to. After you close the case, Lawslane transfers the net amount to your payout account. See [Receive payments from clients](/lawyer/payments).
 
 ## Cap & Deal
 
