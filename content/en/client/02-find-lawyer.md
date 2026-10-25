@@ -19,7 +19,7 @@ Lawyers who have a personal web page (lawslane.com/p/…) show a **Book a consul
 2. **Briefly describe your problem** (อธิบายปัญหาของคุณโดยย่อ) so the lawyer can prepare
 3. Tap **Send appointment request** (ส่งคำขอนัดหมาย (ไม่มีค่าใช้จ่ายผ่านระบบ))
 
-Sending a request is free. Wait for the lawyer to accept it. Your appointment appears under **Dashboard** → **Upcoming Appointments** (นัดหมายที่กำลังจะมาถึง). If there is a fee, the lawyer will tell you in the chat and you transfer it to the lawyer directly.
+Sending a request is free. Wait for the lawyer to accept it. Your appointment appears under **Dashboard** → **Upcoming Appointments** (นัดหมายที่กำลังจะมาถึง). If there is a fee, the lawyer will tell you in the chat and you pay it into Lawslane's account using the payment button in the chat.
 
 ## Verify a lawyer
 

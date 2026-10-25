@@ -17,7 +17,7 @@ When you log in with a lawyer account, you're taken to the lawyer dashboard. The
 **Financial documents** (เอกสารการเงิน)
 
 - **Invoices** (ใบแจ้งหนี้, Pro) — issue invoices to clients
-- **Payout account** — set the account clients transfer to ([details](/lawyer/payments))
+- **Payout account** (the **Earnings and payout account** (รายได้และบัญชีรับเงิน) page) — see the fees clients paid through Lawslane, and set the account Lawslane pays your fees into ([details](/lawyer/payments))
 - **Plan** — upgrade how your profile is displayed ([details](/lawyer/plans))
 
 **AI lawyer assistant** (AI ผู้ช่วยทนาย)

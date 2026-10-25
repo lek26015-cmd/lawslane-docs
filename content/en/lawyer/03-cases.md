@@ -12,7 +12,7 @@ description: Send a quotation with an engagement contract in chat, split fees in
 3. Tap **Create engagement contract** (สร้างสัญญาการจ้างงาน), then review and edit the draft contract
 4. Tap **Confirm and send contract and invoice** (ยืนยันส่งสัญญาและใบแจ้งหนี้). The client receives a **New quotation** (เอกสารใบเสนอราคาใหม่) and a **Draft lawyer engagement contract** (ร่างสัญญาจ้างทนายความ) in the chat
 
-You don't send a separate payment request for each installment. The client can transfer any installment straight to your account right away. Once the money arrives, tap **Confirm payment received** (ยืนยันได้รับเงิน) for each installment. The contract takes full effect once you confirm receiving the first installment. See [Receive payments from clients](/lawyer/payments)
+You don't send a separate payment request for each installment. The client can pay any installment into Lawslane's account right away. You don't need to confirm receipt yourself. When the client pays, you get a notification (ลูกความชำระเงินเข้าระบบแล้ว, "The client has paid into the system"), and the installment shows the **Paid into the system** (ชำระเข้าระบบแล้ว) badge in the case panel of the chat room. The client may pay an installment in several parts (at least ฿1,000 each); it shows as paid once the full amount is in. The contract takes full effect once the first installment has been paid in full. See [Receive payments from clients](/lawyer/payments)
 
 ## Legal Vault
 
@@ -27,12 +27,12 @@ The chat room also has a **Document Vault** tab where you and the client can upl
 2. You're taken to the **Send summary and close case** (ส่งสรุปและปิดเคส) page. Write the **Final summary and recommendations** (บทสรุปและคำแนะนำสุดท้าย) and enter the **Final fee** (ค่าบริการสุดท้าย), the total for the whole case
 3. Tap **Confirm and send summary to close the case** (ยืนยันและส่งสรุปเพื่อปิดเคส)
 
-The client receives the summary in the chat and by email, with an invitation to rate and review.
+The client receives the summary in the chat and by email, with an invitation to rate and review. After the case is closed, Lawslane deducts the GP and transfers the net amount to your payout account.
 
-If the **Final fee** is higher than the original fee, the system sends the client a request to pay the difference and **does not close the case yet**. Once the client has transferred and you've tapped **Confirm payment received** (ยืนยันได้รับเงิน), close the case again.
+If the **Final fee** is higher than the original fee, the system sends the client a request to pay the difference and **does not close the case yet**. The client pays the difference into Lawslane's account the same way as other installments. Once it's paid, close the case again.
 
 ## Cancel a case
 
 On the **Send summary and close case** page, tap **Cancel case (no fee)** (ยกเลิกเคส (ไม่รับค่าบริการ)), then **Confirm, cancel case** (ยืนยัน ยกเลิกเคส). Cancelling can't be undone.
 
-If the client has already transferred fees, **refunds are your direct responsibility**, because the money went into your account, not through Lawslane.
+If you cancel a case before closing it, **you won't receive that case's fees**. Lawslane refunds the client the money they paid through Lawslane. Money the client transferred directly to you before 19 Oct 2026 is settled between you and the client.

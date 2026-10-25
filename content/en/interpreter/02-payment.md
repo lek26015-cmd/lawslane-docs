@@ -3,7 +3,7 @@ title: Pay for interpreter services
 description: Pay through the link the team sends you in chat
 ---
 
-> Interpreter fees differ from lawyer fees, because they are **paid into Lawslane's account**. Lawslane then pays the interpreter after the job is finished
+> Interpreter fees are **paid into Lawslane's account** (the same account as lawyer fees). Lawslane then pays the interpreter after the job is finished
 
 ## Steps
 
