@@ -31,4 +31,6 @@ Before hiring, check that the lawyer still holds a valid license.
 
 If the name isn't found, tap **Check with the Lawyers Council** to check directly against the Lawyers Council's records.
 
+To verify through the Lawyers Council of Thailand, you can download the form and submit the verification request yourself. Tap **Download Form T.8 (PDF)** (ดาวน์โหลดแบบคำขอ ท.8) on the Verify Lawyer page, then fill it in and submit it to the Lawyers Council. The fee, the documents to attach and how to pay are printed on the form.
+
 > If you also need an interpreter, tap **Need an interpreter too?** on the lawyer's profile page. See [Legal interpreter service](/interpreter)
