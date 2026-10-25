@@ -28,7 +28,7 @@ Once you reach an agreement, the lawyer sends 2 documents into the chat.
 2. If you agree, tap **Click to sign** (คลิกเพื่อเซ็นชื่อ) and draw your signature
 3. Pay the fee into Lawslane's account following the steps in [Pay a lawyer's fees](/client/payment) (never transfer to the lawyer's personal account)
 
-The contract takes full effect once the first installment has been paid.
+The contract takes full effect once the first installment has been paid in full (if you pay it in parts, once all parts are paid).
 
 ## Closing the case and rating
 

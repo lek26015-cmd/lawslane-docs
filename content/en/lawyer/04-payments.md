@@ -21,7 +21,10 @@ You no longer need to confirm receipt yourself.
 In the case panel of the chat room, each installment has a status badge:
 
 - **Paid into the system** (ชำระเข้าระบบแล้ว) — the client has paid into Lawslane's account
+- **Partly paid** (ชำระบางส่วน) — the client has paid part of this installment
 - **Awaiting team slip review** (รอทีมงานตรวจสลิป) — the client attached a slip; the Lawslane team is checking it
+
+The client may pay an installment, the case fee, or an additional fee in several parts (at least ฿1,000 each). An item that isn't fully paid shows **Paid ฿… · under review ฿… · remaining ฿…** (ชำระแล้ว ฿… · รอตรวจ ฿… · คงเหลือ ฿…) and becomes paid once the client has paid the full amount.
 
 The **Unpaid fees** (ค่าบริการที่ยังไม่ได้ชำระ) section lists items marked "Waiting for the client to pay into Lawslane's account" (รอลูกความชำระเข้าบัญชี Lawslane).
 
@@ -38,7 +41,7 @@ Go to **Payout account** in the dashboard (the **Earnings and payout account** (
 | **Paid to you** (โอนให้คุณแล้ว) | Lawslane has transferred it to your account |
 | **GP deducted** (GP ที่หักแล้ว) | Platform fees deducted |
 
-The **Fees paid through Lawslane** (ค่าบริการที่ชำระผ่าน Lawslane) list shows each item's net amount, full amount, GP percentage, and status: awaiting team slip review / awaiting case close / awaiting Lawslane transfer to you / paid to you / case cancelled · awaiting client refund / refunded to client / slip rejected (รอทีมงานตรวจสลิป / รอปิดเคส / รอ Lawslane โอนให้คุณ / โอนให้คุณแล้ว / เคสยกเลิก · รอคืนลูกความ / คืนลูกความแล้ว / สลิปไม่ผ่าน).
+The **Fees paid through Lawslane** (ค่าบริการที่ชำระผ่าน Lawslane) list shows each item's net amount, full amount, GP percentage, and status: awaiting team slip review / awaiting case close / awaiting Lawslane transfer to you / paid to you / case cancelled · awaiting client refund / refunded to client / slip rejected (รอทีมงานตรวจสลิป / รอปิดเคส / รอ Lawslane โอนให้คุณ / โอนให้คุณแล้ว / เคสยกเลิก · รอคืนลูกความ / คืนลูกความแล้ว / สลิปไม่ผ่าน). If the client pays in parts, each part is a separate row tagged **(paid in parts, of ฿…)** (แบ่งจ่าย จากยอด ฿…) showing the installment's full amount, and GP is deducted per row.
 
 ## Set up a payout account
 
