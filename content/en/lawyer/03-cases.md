@@ -10,7 +10,9 @@ description: Send a quotation with an engagement contract in chat, split fees in
 1. In the chat room with the client, tap **Quote to open a case** (เสนอราคาเปิดคดี)
 2. Enter the case title, scope of work, and **Total fee (THB)** (ค่าจ้างรวม (บาท)). To split payment, turn on **Pay in installments** (แบ่งชำระเป็นงวด)
 3. Tap **Create engagement contract** (สร้างสัญญาการจ้างงาน), then review and edit the draft contract
-4. Tap **Confirm and send contract and invoice** (ยืนยันส่งสัญญาและใบแจ้งหนี้). The client receives a **New quotation** (เอกสารใบเสนอราคาใหม่) and a **Draft lawyer engagement contract** (ร่างสัญญาจ้างทนายความ) in the chat
+4. Tap **Confirm and send contract and invoice** (ยืนยันส่งสัญญาและใบแจ้งหนี้). The client receives a **New quotation** (เอกสารใบเสนอราคาใหม่) and a **Draft lawyer engagement contract** (ร่างสัญญาจ้างทนายความ) in the chat, along with a **💳 Pay for the service** (ชำระค่าบริการ) card with a button the client taps to pay
+
+You can also open a case from the **Case pipeline** (Pipeline คดี) page with the **Open new case** (เปิดเคสใหม่) button and pick the client. If you already have a chat room with that client that has no billed case yet, the documents go into that room. If there is no room yet, or the existing room already has a billed case or is closed, a new room is created
 
 You don't send a separate payment request for each installment. The client can pay any installment into Lawslane's account right away. You don't need to confirm receipt yourself. When the client pays, you get a notification (ลูกความชำระเงินเข้าระบบแล้ว, "The client has paid into the system"), and the installment shows the **Paid into the system** (ชำระเข้าระบบแล้ว) badge in the case panel of the chat room. The client may pay an installment in several parts (at least ฿1,000 each); it shows as paid once the full amount is in. The contract takes full effect once the first installment has been paid in full. See [Receive payments from clients](/lawyer/payments)
 
