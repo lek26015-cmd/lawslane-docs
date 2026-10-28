@@ -24,6 +24,8 @@ Once you reach an agreement, the lawyer sends 2 documents into the chat.
 - **📄 New quotation** (เอกสารใบเสนอราคาใหม่) — states the subject and the total, which may be a single payment or split into installments. Tap **📄 View quotation details** (เปิดดูรายละเอียดใบเสนอราคา) to see the details
 - **📄 Draft lawyer engagement contract** (ร่างสัญญาจ้างทนายความ) — tap **📄 View contract details** (เปิดดูรายละเอียดสัญญา) to read the scope of work, fees, and terms
 
+A **💳 Pay for the service** (ชำระค่าบริการ) card also arrives. Tap **💳 Pay through Lawslane** (ชำระค่าบริการผ่าน Lawslane) to go to the payment page
+
 1. Read the quotation and contract in full
 2. If you agree, tap **Click to sign** (คลิกเพื่อเซ็นชื่อ) and draw your signature
 3. Pay the fee into Lawslane's account following the steps in [Pay a lawyer's fees](/client/payment) (never transfer to the lawyer's personal account)
